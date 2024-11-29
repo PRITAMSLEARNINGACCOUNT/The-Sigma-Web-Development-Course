@@ -1,0 +1,23 @@
+{
+  "name": "file_downloading_experiment",
+  "version": "1.0.0",
+  "description": "This Is An Experimental Project Which Tries To Download A File From A Secured Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Experiment",
+    "experiment",
+    "File_download",
+    "file_download",
+    "File_Download",
+    "File_Download"
+  ],
+  "author": "PRITAMSTECH",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
